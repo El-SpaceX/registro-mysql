@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="assets/Menu.png" width="300">
+    <img src="assets/menu.png" width="300">
     <img src="assets/searchClient.png" width="300">
 </div>
 
